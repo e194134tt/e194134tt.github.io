@@ -1,0 +1,32 @@
+h1{
+    color:red;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color: aquamarine;         
+}
+h2{ color:red;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aqua;
+} h3{font-weight:bold;
+    font-family:"Impact";
+  color:red;
+    
+}
+p{font-weight:bold;
+    font-family:"Impact";
+  color:red;
+    
+}
+body{
+    background-image: url("../images/bgr7.jpg");
+   
+}
+}
+table{
+    background-color:chartreuse;
+}
