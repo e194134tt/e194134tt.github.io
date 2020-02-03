@@ -1,0 +1,49 @@
+h1{
+    color:red;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color: aquamarine;         
+}
+h1#tutiya{
+    color:seagreen;
+    background-color:beige;   
+}
+h2#kudo{
+    color:fuchsia;
+    background-color: aqua
+}
+ 
+   
+
+h2{ color:red;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:blue;
+    
+} h3{font-weight:bold;
+    font-family:"Impact";
+  
+    
+}
+p#amamiya2{
+   color:dark;
+    background-color:aqua;   
+} 
+p{font-weight:bold;
+    font-family:"Impact";
+    font-size:30px;
+}
+body{
+    background-image: url("../images/page6.png");
+    background-attachment: fixed;
+}
+img.kaitou{
+  width:600px;
+}
+img.cool{
+  width:600px; 
+}
